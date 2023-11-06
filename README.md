@@ -2,16 +2,19 @@
 <br/>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
 
-
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=56FA00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Teja!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from USA usa</h3>
+<hr/>
+
+
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+
+
+
+<h3 align="left">A passionate software developer from USA usa</h3>
 
 <br/>
 
@@ -19,7 +22,7 @@
  
  🔭 I’m currently pursuing Master in Computer Software Engineering at SJSU usa
  
- 🌱 Passionate Software Developer with 2+ years of experinece in full-stack web applications and cloud services, expertise in architecture, product development, programming and problem solving**
+ 🌱 Passionate Software Developer with 2+ years of experinece in full-stack web applications <br/> and cloud services, expertise in architecture, product development, programming and problem solving**
 
  💬 Interested in contributing to open-sources softwares.
 
@@ -39,16 +42,6 @@
   </a>
 </div>
 
- <hr/>
- 
-
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
 
 <hr/>
@@ -248,3 +241,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=56FA00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
