@@ -20,9 +20,9 @@
 
 <div align="left">
  
- 🔭 I’m currently pursuing Master in Computer Software Engineering at SJSU usa
+ 🔭 Master's degree in Software Enigneering, Specialized in AI from SJSU usa
  
- 🌱 Passionate Software Developer with 2+ years of experinece in full-stack web applications <br/> and cloud services, expertise in architecture, product development, programming and problem solving**
+ 🌱 Passionate Software Developer with 3+ years of experinece in full-stack web applications <br/> and cloud services, expertise in architecture, AI, LLMOps, GenAI, CNN's, Deep Neural Networks**
 
  💬 Interested in contributing to open-sources softwares.
 
